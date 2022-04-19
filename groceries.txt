@@ -3,3 +3,4 @@
 - tomatoes
 - napkins
 - butter
+- eggs
