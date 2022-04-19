@@ -1,0 +1,4 @@
+- avocado"
+- bread
+- tomatoes
+- napkins
